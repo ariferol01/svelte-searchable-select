@@ -1,0 +1,7 @@
+{
+  "name": "svelte-searchable-select",
+  "version": "0.0.1",
+  "svelte": "Select.svelte",
+  "main": "index.js",
+  "module": "index.mjs"
+}
