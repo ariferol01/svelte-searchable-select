@@ -9,7 +9,7 @@ Npm Link: https://www.npmjs.com/package/svelte-searchable-select
 Github Repository: https://github.com/ariferol01/svelte-searchable-select
 
   
-  ![enter image description here](./images/svelte-searchable-select.jpg)
+  ![enter image description here](https://raw.githubusercontent.com/ariferol01/svelte-searchable-select/main/images/multiple-select.jpg)
   
   
 
